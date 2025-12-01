@@ -1,3 +1,3 @@
 ## Stochastik Tutor
 
-an Introduktion in 8 chapters
+An introduktion to the fundamentals of stochastics in 8 chapters
